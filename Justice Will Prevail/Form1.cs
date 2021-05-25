@@ -208,6 +208,11 @@ namespace Justice_Will_Prevail
 
             return (creation, modification);
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
     public static class ModifyProgressBarColor
